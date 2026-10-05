@@ -41,7 +41,9 @@ The system can identify:
 
 ## 🔄 System Flow
 
-'''text
+## 🔄 System Flow
+
+```text
 Sensors
    ↓
 ESP32
@@ -55,7 +57,8 @@ LoRa Transmission
 ESP8266 Receiver
    ↓
 Web Dashboard / Mobile Monitoring
-'''
+```
+
 
 ## 🎯 Applications
 
